@@ -2,8 +2,6 @@
 
 A simple, single-screen Android application built with Jetpack Compose to display a personal business card. This project was created as a learning exercise to practice fundamental Android development concepts, from UI layout to version control with Git.
 
-![Business Card App Screenshot](https://i.imgur.com/uR1dOyr.png)
-
 ---
 
 ## 🚀 Key Concepts I Practiced
